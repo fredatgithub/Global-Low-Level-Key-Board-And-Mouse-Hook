@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs
+/GlobalLowLevelHooks/bin/Release/GlobalLowLevelHooks.dll
+/GlobalLowLevelHooks/bin/Release/GlobalLowLevelHooks.pdb
+/GlobalLowLevelHooks/bin/Release/GlobalLowLevelHooks.XML
+/GlobalLowLevelHooks/obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
